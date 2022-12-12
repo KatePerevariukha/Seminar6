@@ -1,0 +1,15 @@
+C:\FilesGB\Sem6\Seminar6\43\obj\Debug\net6.0\43.csproj.AssemblyReference.cache
+C:\FilesGB\Sem6\Seminar6\43\obj\Debug\net6.0\43.GeneratedMSBuildEditorConfig.editorconfig
+C:\FilesGB\Sem6\Seminar6\43\obj\Debug\net6.0\43.AssemblyInfoInputs.cache
+C:\FilesGB\Sem6\Seminar6\43\obj\Debug\net6.0\43.AssemblyInfo.cs
+C:\FilesGB\Sem6\Seminar6\43\obj\Debug\net6.0\43.csproj.CoreCompileInputs.cache
+C:\FilesGB\Sem6\Seminar6\43\bin\Debug\net6.0\43.exe
+C:\FilesGB\Sem6\Seminar6\43\bin\Debug\net6.0\43.deps.json
+C:\FilesGB\Sem6\Seminar6\43\bin\Debug\net6.0\43.runtimeconfig.json
+C:\FilesGB\Sem6\Seminar6\43\bin\Debug\net6.0\43.dll
+C:\FilesGB\Sem6\Seminar6\43\bin\Debug\net6.0\43.pdb
+C:\FilesGB\Sem6\Seminar6\43\obj\Debug\net6.0\43.dll
+C:\FilesGB\Sem6\Seminar6\43\obj\Debug\net6.0\refint\43.dll
+C:\FilesGB\Sem6\Seminar6\43\obj\Debug\net6.0\43.pdb
+C:\FilesGB\Sem6\Seminar6\43\obj\Debug\net6.0\43.genruntimeconfig.cache
+C:\FilesGB\Sem6\Seminar6\43\obj\Debug\net6.0\ref\43.dll
